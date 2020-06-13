@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CriminalIntent</string>
+    <string name="news_title_hint">Enter a title for the news.</string>
+    <string name="news_title_label">Title</string>
+    <string name="news_details_label">Details</string>
+    <string name="news_solved_label">Solved</string>
+    <string name="news_title">News Title</string>
+    <string name="news_date">News Date</string>
+    <string name="new_news">New News</string>
+    <string name="news_suspect_text">Choose Suspect</string>
+    <string name="news_report_text">Send News Report</string>
+    <string name="news_report">%1$s!The news was discovered on %2$s. %3$s, and %4$s</string>
+    <string name="news_report_solved">The case is solved</string>
+    <string name="news_report_unsolved">The case is not solved</string>
+    <string name="news_report_no_suspect">there is no suspect</string>
+    <string name="news_report_suspect">the suspect is %s.</string>
+    <string name="news_report_subject">Newspam News Report</string>
+    <string name="send_report">Send news report via</string>
+</resources>
